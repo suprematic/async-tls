@@ -14,7 +14,7 @@ documentation = "https://docs.rs/async-tls"
 readme = "README.md"
 description = "Asynchronous TLS/SSL streams using Rustls."
 categories = ["asynchronous", "cryptography", "network-programming"]
-edition = "2018"
+edition = "2021"
 
 [badges]
 travis-ci = { repository = "async-std/async-tls" }
